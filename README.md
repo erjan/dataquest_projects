@@ -1,8 +1,8 @@
-# Dataquest Project Solutions
+# my dataquest project solutions
 
-This repository is a series of notebooks that show solutions for the [projects](https://www.dataquest.io/apply) at [Dataquest.io](https://www.dataquest.io/).
 
-Of course, there are always going to be multiple ways to solve any one problem, so these notebooks just show one possible solution.
+
+my way of solving projects from dataquest.io!.
 
 - [Guided Project: Explore U.S. Births](https://github.com/dataquestio/solutions/blob/master/Mission9Solutions.ipynb)
 - [Guided Project: Customizing Data Visualizations](https://github.com/dataquestio/solutions/blob/master/Mission103Solutions.ipynb)
